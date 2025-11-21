@@ -9,10 +9,10 @@ This workshop is a hands-on training course on the application of genome sequenc
 
 ## Instructors:  
 
- - Criselda Bautista
+ - Dr Criselda Bautista
  - Bea Crisostomo
  - Dr Kirstyn Brunker (virtual)
- - Sandeep Kasaragod (virtual)
+ - Dr Sandeep Kasaragod (virtual)
 
 ### Funding
 Funding for this workshop has been provided by [SPEEDIER](https://rabiesresearch.github.io/SPEEDIER/).
