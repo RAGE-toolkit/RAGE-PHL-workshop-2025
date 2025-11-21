@@ -7,11 +7,12 @@ This workshop is a hands-on training course on the application of genome sequenc
 
 ---
 
-## Instructors and facilitators:  
+## Instructors:  
 
-| Criselda Bautista  | Bea Crisostomo | Dr Kirstyn Brunker |  
-| ------------------ | ------------------ | ------------------ |
-| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/489d7165-0a25-43b6-82c0-faff9f328722)| ![image](https://github.com/RAGE-toolkit/RAGE-workshop-2024/assets/10990340/e8768e05-c43e-412f-83c5-5f6a95837173)|
+ - Criselda Bautista
+ - Bea Crisostomo
+ - Dr Kirstyn Brunker (virtual)
+ - Sandeep Kasaragod (virtual)
 
 ### Funding
 Funding for this workshop has been provided by [SPEEDIER](https://rabiesresearch.github.io/SPEEDIER/).
